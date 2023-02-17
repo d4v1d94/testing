@@ -3,3 +3,20 @@ body{
     padding: 0;
     background: #ebe4e4;
 }
+.container{
+    margin-top: 150px;
+    margin-left: 125px;
+    width: 50%;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px #c5c5c5;
+}
+.container>.header{
+    font-size: 25px;
+    text-align: center;
+    color: #ece02d;
+    text-shadow: 2px 2px 2px #000;
+    background: #5a5757;
+    padding: 10px;
+    text-transform: capitalize;
+}
