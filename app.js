@@ -1,2 +1,2 @@
 "use strict";
-console.log('Hello world from header');
+let myVariable = "it's mine";
